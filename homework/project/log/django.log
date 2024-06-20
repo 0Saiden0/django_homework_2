@@ -1,0 +1,45 @@
+
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 479
+about page accessed
+"GET /about/ HTTP/1.1" 200 464
+index page accessed
+"GET / HTTP/1.1" 200 479
+about page accessed
+"GET /about/ HTTP/1.1" 200 464
+index page accessed
+"GET / HTTP/1.1" 200 479
+Watching for file changes with StatReloader
+index page accessed
+"GET / HTTP/1.1" 200 680
+about page accessed
+"GET /about/ HTTP/1.1" 200 672
+index page accessed
+"GET / HTTP/1.1" 200 680
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\user\Desktop\GB\Django\lesson_2\project\myapp2\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
